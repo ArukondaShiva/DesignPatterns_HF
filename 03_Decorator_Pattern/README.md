@@ -15,5 +15,7 @@ like(runtime)
 ## Class Diagram(For above example-StarbuzzCoffee)
 ![DecoratorPatternBeverage](https://github.com/ArukondaShiva/DesignPatterns_HF/assets/49832102/111d0ee6-c569-4cfb-8cac-e180f6206280)
 
+![WhatsApp Image 2023-11-19 at 12 01 35 AM](https://github.com/ArukondaShiva/DesignPatterns_HF/assets/49832102/8efd5885-fcb9-4b34-aaa8-48a427119f50)
+
 ## Design Principles
 Classes should be open for extension and closed for modification.
