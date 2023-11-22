@@ -17,6 +17,7 @@ An Abstract Factory provides an interface for a family of products. what's a fam
 - inside Abstract factory method. concrete factories must implement factory method to create their products.
 - both encapsulate object creation to keep applications loosely coupled and less dependent on implementations.
 
-
+## Design Principles
+- Depend on abstractions. Do not depend on concrete classes.
 
 
