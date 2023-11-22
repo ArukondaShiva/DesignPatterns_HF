@@ -1,0 +1,1 @@
+- The volatile keyword ensures that multiple threads handle the uniqueInstance variable correctly when it being initialized to the Singleton instance.
